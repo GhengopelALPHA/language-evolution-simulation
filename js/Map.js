@@ -55,9 +55,9 @@ var __ISLANDS__ = {
 };
 
 var __INITIAL_WORDS__ = {
-  'A': 'zelere',
-  'B': 'acaba',
-  'C': 'lulere',
+  'A': 'cloud',
+  'B': 'data',
+  'C': 'machine',
 };
 
 var __GATES__ = {
